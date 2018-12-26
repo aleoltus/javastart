@@ -21,6 +21,7 @@ public class Main {
 	for(int i = a; i<=10;i++){
 	    System.out.println(i);
     }
+	System.out.println("koniec petli");
 
 
     }

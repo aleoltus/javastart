@@ -14,5 +14,6 @@ public class tabele {
             System.out.println("Kolejkna  komorka to "+tablica[i]);
 
         System.out.println("nasza zmienna to " +zmienna);
+        System.out.println(tablica[2]);
     }
 }

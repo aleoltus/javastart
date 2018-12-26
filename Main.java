@@ -12,6 +12,7 @@ public class Main {
 	System.out.println(imie);
 
 	System.out.println("Podaj liczbe od 1 do 9");
+	System.out.println("hej hej podaj liczbe");
 
 	Scanner liczba = new Scanner(System.in);
 	int a = liczba.nextInt();

@@ -17,7 +17,7 @@ public class wieletab {
                 System.out.println(tab[i][j]);
 
 
-       // for (int[] x : tab) System.out.println(x);
+       // for (int[] x : tab) System.out.println(x); to nam nie wychodzi
 
     }
 }

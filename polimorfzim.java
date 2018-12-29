@@ -11,7 +11,7 @@ public class polimorfzi {
         for(XX x:tab)
             x.doSomething();
     }
-    // nie wiem dlaczego nie dziala
+    // nie wiem dlaczego nie dziala :(
 
 
 
